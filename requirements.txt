@@ -3,5 +3,5 @@ matplotlib
 numpy
 fbprophet
 pystan
-pandas==0.25.0
+pandas==1.0.0
 pytrends
